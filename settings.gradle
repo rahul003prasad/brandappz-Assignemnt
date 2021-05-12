@@ -1,0 +1,2 @@
+rootProject.name = "Michael Jackson Song"
+include ':app'
